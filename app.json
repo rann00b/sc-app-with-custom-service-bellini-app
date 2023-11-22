@@ -1,0 +1,7 @@
+{
+  "name": "sc-app-with-custom-service",
+  "type": "app",
+  "defaultPage": "home",
+  "externalScripts": [],
+  "externalStylesheets": []
+}
