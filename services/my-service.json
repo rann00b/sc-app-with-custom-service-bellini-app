@@ -1,0 +1,8 @@
+{
+  "type": "app-service",
+  "name": "my-service",
+  "variables": [],
+  "visible": [],
+  "description": "",
+  "singleton": true
+}
